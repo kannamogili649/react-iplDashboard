@@ -1,0 +1,24 @@
+.container {
+  min-height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+}
+.title-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ipl-logo {
+  width: 30px;
+}
+.heading {
+  color: white;
+  font-family: Bree Serif;
+  margin-left: 10px;
+}
+.team-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
